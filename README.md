@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Deep Learning, Neural Nets
 - 💞️ I’m looking to collaborate on new ideas / projects
 - 📫 How to reach me fraz.iimi@gmail.com
-- 😄 Pronouns: They/them
 - ⚡ Fun fact: I can play the Ukulele
 - Using this as a dumping ground for my experiments in Supervised / Unsupervised Learning, Ensemble Techniques, SQL, EDA, FMT, Deep Learning, Generative AI, RAG
