@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faraz
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deep Learning, Neural Nets
+- 🌱 I’m currently working on strengthening my understanind of Deep Learning, Neural Nets
 - 💞️ I’m looking to collaborate on new ideas / projects
 - 📫 How to reach me fraz.iimi@gmail.com
 - ⚡ Fun fact: I can play the Ukulele
