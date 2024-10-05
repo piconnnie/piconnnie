@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faraz
-- 👀 I’m interested in Machine Learning
+- 👀 I’m passionate about Machine Learning
 - 🌱 I’m currently working on strengthening my understanding of Deep Learning, Neural Nets
 - 💞️ I’m looking to collaborate on new ideas / projects
 - 📫 How to reach me fraz.iimi@gmail.com
